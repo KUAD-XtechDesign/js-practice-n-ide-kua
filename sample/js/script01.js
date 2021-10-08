@@ -5,7 +5,7 @@
    })
 
    $("#button02").on("clisk",function(){
-       $(".back-blue").hide();
+    $(".back-blue").hide();
    })
 
  })
