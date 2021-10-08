@@ -9,7 +9,7 @@
    })
 
    $("#button03").on("click",function(){
-    $("#box03").hide();
+    $("#box03")("#box07").hide();
    })
 
  })
