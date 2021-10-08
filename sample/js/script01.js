@@ -12,4 +12,8 @@
     $("#box03,#box07").hide();
    })
 
+   $("#button04").on("click",function(){
+    $("#box01,#box02,#box03,#box04,#box05,#box06,#box08").show();
+   })
+
  })
