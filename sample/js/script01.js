@@ -4,7 +4,7 @@
     $(".back-red").hide();
    })
 
-   $("#button02").on("clisk",function(){
+   $("#button02").on("click",function(){
     $(".back-blue").hide();
    })
 
