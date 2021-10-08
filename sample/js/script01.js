@@ -8,4 +8,8 @@
     $(".back-blue").hide();
    })
 
+   $("#button03").on("click",function(){
+    $("#box03").hide();
+   })
+
  })
