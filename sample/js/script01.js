@@ -13,7 +13,7 @@
    })
 
    $("#button04").on("click",function(){
-    $("#box").show();
+    $(".box").show();
    })
 
  })
